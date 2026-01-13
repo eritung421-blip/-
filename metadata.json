@@ -1,0 +1,5 @@
+{
+  "name": "書影隨行 (BookTrack)",
+  "description": "一個具有玻璃擬態設計風格的書籍管理工具，協助你記錄已購書籍、追蹤閱讀進度並紀錄心得。整合 Gemini AI 提供書籍摘要與智慧標籤。",
+  "requestFramePermissions": []
+}
